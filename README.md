@@ -9,4 +9,17 @@ This is a plain copy of the sources for educational purposes with the following 
 3. modernizations (html5,jquery update)
 4. a clear button to reset the output list
 
-All credits goes to: **The Grandmaster of all Javascript Ninjas** aka [John Resig](http://ejohn.org/about/) 
+All credits goes to: 
+
+**The Grandmaster of all Javascript Ninjas** aka [John Resig](http://ejohn.org/about/) 
+
+**NOTE:** Only page 51 requires a webserver to run correctly (at least with Chrome browser). All other pages work fine when you open index.html directly from the filesystem with your browser.
+
+## Related resources
+
+If you are interested in browser based Javascript environments:
+
+1. [Cloud9 website](https://c9.io/)
+2. [Ace (Cloud9 editor) on Github](https://github.com/ajaxorg/ace)
+3. [JSBin website](https://jsbin.com)
+4. [JSBin sources on Github](https://github.com/jsbin/jsbin)

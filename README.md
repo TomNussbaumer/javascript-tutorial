@@ -23,3 +23,13 @@ If you are interested in browser based Javascript environments:
 2. [Ace (Cloud9 editor) on Github](https://github.com/ajaxorg/ace)
 3. [JSBin website](https://jsbin.com)
 4. [JSBin sources on Github](https://github.com/jsbin/jsbin)
+
+## The not-so-known Marvels of Github
+
+Github supports static hosting. The url to a static file looks like this:
+
+```
+https://rawgit.com/[user]/[repository]/[branch]/[filename.ext]
+```
+
+Wanna take javascript-tutorial to a [testdrive](https://rawgit.com/TomNussbaumer/javascript-tutorial/master/index.html)?
